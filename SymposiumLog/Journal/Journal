@@ -30,3 +30,10 @@ Result:SQL servers are up, connection attempted but failed, having trouble with 
 
 Next session:Look into making MySQL server connect and discuss future of project.
 
+5/10/17
+
+Goal:I need to set up the MAMP server so I can locally access SQL servers.
+
+Result:Connection with SQL server established, cannot access SQL database.
+
+Next session:My group needs to find a way to connect to SQL database.
