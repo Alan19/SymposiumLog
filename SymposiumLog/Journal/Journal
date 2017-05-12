@@ -45,3 +45,11 @@ Goal:I need to work with Max and Anthony to set up SQL server access. Also I hav
 Result:Dynamically adding and selecting courses is successful. I need to research how to scrape information off CUNY websites.
 
 Next session:I need to research how to scrape information off CUNY websites and look into how to present information.
+
+5/12/17
+
+Goal:I need to research and attempt to implement web scraping
+
+Result:SQL server worked, converting CUNY courses into .csv files.
+
+Next schedule:Add more CUNY schools.
