@@ -52,4 +52,12 @@ Goal:I need to research and attempt to implement web scraping
 
 Result:SQL server worked, converting CUNY courses into .csv files.
 
-Next schedule:Add more CUNY schools.
+Next session:Add more CUNY schools.
+
+5/15/17
+
+Goal:Add City College's required courses as a .csv
+
+Result:City College has been converted to .csv, database created, I need to populate it with teachers.
+
+Next session:I need to populate the table with professors and work with Javiy on the webpage.
