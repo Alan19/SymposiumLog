@@ -85,3 +85,11 @@ Goal:I need to work with the other members to populate the database.
 Result:Database is populated with mandatory courses.
 
 Next session:I need to prepare SQL commands to populate dropdowns.
+
+5/23/17
+
+Goal:I need to set up a new page that would display your schedule and potential conflicts.
+
+Result:I discussed the layout of the schedule webpage with Javiy and Max and Anthony got the database info into the HTML through PHP.
+
+Next session:Auto populate the courses using the database when a user selects a college.
