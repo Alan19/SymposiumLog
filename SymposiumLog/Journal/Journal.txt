@@ -98,3 +98,7 @@ Next session:Auto populate the courses using the database when a user selects a 
 5/24/17
 
 Goal:I need to work with Javiy to get a list of teachers from Hunter college.
+
+Result:I reduced the amount of negative space in the navbar.
+
+Next session:Work with Anthony and Max to attempt to populate the website.
