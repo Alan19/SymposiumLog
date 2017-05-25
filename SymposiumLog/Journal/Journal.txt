@@ -102,3 +102,11 @@ Goal:I need to work with Javiy to get a list of teachers from Hunter college.
 Result:I reduced the amount of negative space in the navbar.
 
 Next session:Work with Anthony and Max to attempt to populate the website.
+
+5/25/17
+
+Goal:I need to work with Javiy to get the answers out of Hunter College.
+
+Result:I made a carousel and began work on course verification.
+
+Next session:Get the course verification to work.
