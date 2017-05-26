@@ -110,3 +110,11 @@ Goal:I need to work with Javiy to get the answers out of Hunter College.
 Result:I made a carousel and began work on course verification.
 
 Next session:Get the course verification to work.
+
+5/26/17
+
+Goal:Since the other group members are not here, I'm going to make the website look a bit better.
+
+Result:I fixed the submit button and course verification function and started work on sending arrays to the schedule page.
+
+Next session:Get the SQL database ready.
