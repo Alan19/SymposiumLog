@@ -118,3 +118,11 @@ Goal:Since the other group members are not here, I'm going to make the website l
 Result:I fixed the submit button and course verification function and started work on sending arrays to the schedule page.
 
 Next session:Get the SQL database ready.
+
+5/30/17
+
+Goal:I have to try extracting information from the CUNY course viewer.
+
+Result:I discussed how to implement the table with Javiy.
+
+Result:I need to implement the table tomorrow.
