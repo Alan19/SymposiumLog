@@ -125,4 +125,12 @@ Goal:I have to try extracting information from the CUNY course viewer.
 
 Result:I discussed how to implement the table with Javiy.
 
-Result:I need to implement the table tomorrow.
+Next session:I need to implement the table tomorrow.
+
+5/31/17
+
+Goal:Start working on presentation.
+
+Result:Table now populates with correct color and day of the week.
+
+Next session:I need to work on formatting the table so it was a fixed width for each column.
