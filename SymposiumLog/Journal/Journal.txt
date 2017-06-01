@@ -134,3 +134,11 @@ Goal:Start working on presentation.
 Result:Table now populates with correct color and day of the week.
 
 Next session:I need to work on formatting the table so it was a fixed width for each column.
+
+6/1/17
+
+Goal:Make every column be of equal width.
+
+Result:I added a collapsible menu that displays all the classes one is taking/
+
+Next session:Find out how to make every column have an equal width/
