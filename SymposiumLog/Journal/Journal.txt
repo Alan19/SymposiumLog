@@ -141,4 +141,12 @@ Goal:Make every column be of equal width.
 
 Result:I added a collapsible menu that displays all the classes one is taking/
 
-Next session:Find out how to make every column have an equal width/
+Next session:Find out how to make every column have an equal width.
+
+6/2/17
+
+Goal:Use CSS grid to make columns be of equal width.
+
+Result:We settled with a table that has different widths for each column and I added a method to convert 24 hour format to 12 hour format.
+
+Next session:Test website and add different courses per school.
