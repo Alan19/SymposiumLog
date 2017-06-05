@@ -150,3 +150,11 @@ Goal:Use CSS grid to make columns be of equal width.
 Result:We settled with a table that has different widths for each column and I added a method to convert 24 hour format to 12 hour format.
 
 Next session:Test website and add different courses per school.
+
+6/5/17
+
+Goal:Work with other members to see what we still need.
+
+Result:Implemented delete button.
+
+Next session:Work on popup to confirm delete.
