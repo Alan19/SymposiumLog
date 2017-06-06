@@ -158,3 +158,11 @@ Goal:Work with other members to see what we still need.
 Result:Implemented delete button.
 
 Next session:Work on popup to confirm delete.
+
+6/6/17
+
+Goal:Add CSS animation when deleting classes.
+
+Result:Implemented class modals.
+
+Next session:Refine modal style.
