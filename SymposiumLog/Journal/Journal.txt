@@ -166,3 +166,7 @@ Goal:Add CSS animation when deleting classes.
 Result:Implemented class modals.
 
 Next session:Refine modal style.
+
+6/7/17
+
+Goal:Refine modal CSS
