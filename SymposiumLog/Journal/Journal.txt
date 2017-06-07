@@ -169,4 +169,8 @@ Next session:Refine modal style.
 
 6/7/17
 
-Goal:Refine modal CSS
+Goal:Refine modal CSS.
+
+Result:Modal looks a bit better and added button to dismiss modal.
+
+Next session:Start working on integrating SQL into the front end.
